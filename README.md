@@ -1,12 +1,12 @@
 # ME-405-LASER-TRACER
 ## Created by Jake Souto and Harrison Power
 
-######Background
+###### Background
 
-######Project
+###### Project
 
-######Chasis 
+###### Chasis 
 
-######Harware
+###### Harware
 
-######Code
+###### Code
