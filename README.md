@@ -49,7 +49,7 @@ $$\begin{equation}
 x_{n+1} = 
  \begin{bmatrix}
     rtan(θ1)\\
-    rtan(θ2)}
+    rtan(θ2)
   \end{bmatrix}
 \end{equation}$$
 
