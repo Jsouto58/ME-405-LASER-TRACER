@@ -39,6 +39,15 @@ $$\begin{equation}
 \end{equation}$$
 
 $$\begin{equation}
+\frac{df^{-1}}{dθ} = 
+  \begin{bmatrix}
+    \frac{1}{rsec^2(θ1)} & 0 \\
+    0 & \frac{1}{rsec^2(θ2)}
+  \end{bmatrix}
+  \label{eq:aeqn}
+\end{equation}$$
+
+$$\begin{equation}
 x_{n+1} =  x_n - 
   \begin{bmatrix}
     \frac{1}{rsec^2(θ1)} & 0 \\
