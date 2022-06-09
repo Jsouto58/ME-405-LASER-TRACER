@@ -31,8 +31,8 @@ To convert the x,y coordinates to radial coordinates that we could write to our 
 
 $$\begin{equation}
   \begin{bmatrix}
-    r*sec^2(theta1) & 0 \\
-    0 & r*sec^2(theta2) 
+    rsec^2(theta1) & 0 \\
+    0 & rsec^2(theta2) 
   \end{bmatrix}
   \label{eq:aeqn}
 \end{equation}$$
