@@ -32,8 +32,8 @@ To convert the x,y coordinates to radial coordinates that we could write to our 
 $$\begin{equation}
 \frac{df^{-1}}{dθ} = 
   \begin{bmatrix}
-    rsec^2(θ1) & 0 \\
-    0 & rsec^2(θ2) 
+    \frac{1}{rsec^2(θ1)} & 0 \\
+    0 & \frac{1}{rsec^2(θ2)}
   \end{bmatrix}
   \label{eq:aeqn}
 \end{equation}$$
