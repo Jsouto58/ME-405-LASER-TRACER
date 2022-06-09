@@ -49,5 +49,10 @@ x_{n+1} =  x_n -
   \end{bmatrix}
 \end{equation}$$
 
+This equation iterated through until the difference between the next step and the current one is less than some threshold; we know that the calculated thetas correspond to the desired x,y coordinates. Implementing this function into python and generating thetas for a simple circle we were able to genereate this gif to prove that our equation was correct for our implementation. 
+<p align="center">
+  <img src="mygif.gif" alt="drawing" align = "center" width="200"/> <img src="Motor.png" alt="drawing" align = "center" width="350"/>
+  </p>
+
 
 ###### Code
