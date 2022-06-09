@@ -36,16 +36,20 @@ $$\begin{equation}
     0 & \frac{1}{rsec^2(θ2)}
   \end{bmatrix}
   \label{eq:aeqn}
-\end{equation}$$
+\end{equation}
 
-$\begin{equation}
+\begin{equation}
 x_{n+1} =  x_n - 
   \begin{bmatrix}
     \frac{1}{rsec^2(θ1)} & 0 \\
     0 & \frac{1}{rsec^2(θ2)}
   \end{bmatrix}
+  \begin{bmatrix}
+    rtan(θ1)\\
+    rtan(θ2)}
+  \end{bmatrix}
 \label{eq:aeqn}
-\end{equation}$
+\end{equation}$$
 
 
 ###### Code
