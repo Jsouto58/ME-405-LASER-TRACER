@@ -10,9 +10,14 @@
   
 ###### Chasis
   The chassis of our machine is functional for its purpose but has room for improvements. The supports of our chassis are laser cut wooden T’s which holds the vertical motor and the axles for the gears and platform. The acrylic laser cut gears are fundamental to this project as they gear up our stepper motor 10-1 allowing us to achieve a resolution of 120x120 steps and greatly increase our torque. The resulting shakiness visible in our final images stem from our chassis as the T supports are not fully stable and our laser cut gears don’t perfectly mesh with the metal stepper gears. If we were to improve upon this design, a sturdier and more precise chassis would improve the final product significantly. 
-  <p align="center">
-  <img src="Topview.jpeg" alt="drawing" align = "center" width="200"/> <img src="Gearview.jpeg" alt="drawing" align = "center" width="200"/>
-  </p>
+  <div class="row">
+  <div class="column">
+    <img src="Topview.jpeg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="Gearview.jpeg" alt="Forest" style="width:100%">
+  </div>
+</div>
   
 
 ###### Harware
