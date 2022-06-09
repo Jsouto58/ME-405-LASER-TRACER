@@ -43,10 +43,6 @@ x_{n+1} =  x_n -
     \frac{1}{rsec^2(θ1)} & 0 \\
     0 & \frac{1}{rsec^2(θ2)}
   \end{bmatrix}
-  \times \begin{bmatrix}
-    rtan(θ1)\\
-    rtan(θ2)}
-  \end{bmatrix}
 \end{equation}$$
 
 
