@@ -63,7 +63,9 @@ The main executable for our project is [Wrapper.py](Wrapper.py). Wrapper.py read
 <p align="center">
   <img src="TaskDiagram.png" alt="drawing" align = "center" width="400"/> <img src="ClassDiagram.png" alt="drawing" align = "center" width="200"/>
   </p> 
+  
 The [StepperClass.py](StepperClass.py) is a library of the Stepper class which initializes and communicates to the TMC4210 chip. A single instantiation of the Stepper is able to communicate to control two motors which is documented above in the image on the right. In order to get the stepper motors to move many of the TMC registers needed to be initialized as detailed in the datasheet for the TMC4210. Some of the values in the register are concretely defined needing to be set to certain values in order to function. However, some registers controlled internal settings that varied depending on the implementation notably, the speed settings. All of the presets we used can be found in our StepperClass.py.
+
 
 The [Bell.py](Bell.py) is a separate executable to be run on an external computer not the Nucleo. This file reads the serial port connected to the Nucleo and receives the actual motor position. It decodes the serial communication into (x,y) coordinates and creates and updating graph that traces the coordinates in real time.
 
