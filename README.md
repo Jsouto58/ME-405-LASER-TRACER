@@ -6,6 +6,10 @@
   <p align="center">
   <img src="Fullview.jpeg" alt="drawing" align = "center" width="600"/>
   </p>
+   <p align="center">
+  <img src="Diamond.JPG" alt="drawing" align = "center" width="400"/> <img src="SemiCircle.JPG" alt="drawing" align = "center" width="400"/> <img src="Star.JPG" alt="drawing" align = "center" width="400"/>
+  </p> 
+  
   
   
 ###### Chasis
