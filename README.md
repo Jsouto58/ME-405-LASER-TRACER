@@ -29,8 +29,12 @@ The TMC 2208 chips had an on board current limiting potentiometer that we had to
 ###### Movement calculaions
 To convert the x,y coordinates to radial coordinates that we could write to our stepper motors we used what is called the Newton-Raphson algorithm. This algorithm consecutively approximates any given solution to an equation using the formula below. 
 
-$$X = \begin{bmatrix}r*sec^2(theta1) & 0\\
-0 & r*sec^2(theta2)
-\end{bmatrix}$$
+\begin{equation}
+  \begin{bmatrix}
+    1 & 2 \
+    3 & 4 
+  \end{bmatrix}
+  \label{eq:aeqn}
+\end{equation}
 
 ###### Code
