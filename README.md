@@ -2,7 +2,7 @@
 ## Created by Jake Souto and Harrison Power
   
 ###### Project
-  The objective for this project was to create a 2½ degree pen plotter with the challenge of making both dimensions non-linear. For our project we chose to control a laser pointer across two radial dimensions taking a long exposure photo of the laser path to “record the drawing”. Below is our final design.
+  The objective for this project was to create a 2½ degree pen plotter with the challenge of making both dimensions non-linear. For our project we chose to control a laser pointer across two radial dimensions taking a long exposure photo of the laser path to “record the drawing”. In addition to this, we plot the curve that the machine is drawing on the computer in real time. Below is our final design.
   <p align="center">
   <img src="Fullview.jpeg" alt="drawing" align = "center" width="600"/>
   </p>
