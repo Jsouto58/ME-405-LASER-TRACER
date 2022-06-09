@@ -38,6 +38,7 @@ df/dθ =
   \label{eq:aeqn}
 \end{equation}$$
 
+$$\begin{equation}
 df^-1/dθ = 
   \begin{bmatrix}
     1/rsec^2(θ1) & 0 \\
