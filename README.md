@@ -16,5 +16,10 @@
   
 
 ###### Harware
+The Board we used for this project is a Nucleo L476RG which interfaced serially with a TMC 4210 stepper motor IC, which gave commads to the TMC 2208 motor driver. The TMC 4210 and the TMC 2208 were pre-assembled on a custom PCB board which handled the connections between the two devices. The Nucleo was connected to this board and the motors as shown in the diagram below. 
+<p align="center">
+  <img src="Wiring.png" alt="drawing" align = "center" width="400"/> 
+  </p>
+
 
 ###### Code
