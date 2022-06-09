@@ -49,7 +49,6 @@ x_{n+1} = x_n -
     rtan(θ1)\\
     rtan(θ2)}
   \end{bmatrix}
-  \label{eq:aeqn}
 \end{equation}$$
 
 
