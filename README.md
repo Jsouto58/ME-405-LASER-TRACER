@@ -20,6 +20,10 @@ The Board we used for this project is a Nucleo L476RG which interfaced serially 
 <p align="center">
   <img src="Wiring.png" alt="drawing" align = "center" width="400"/> 
   </p>
+The TMC 2208 chips had an on board current limiting potentiometer that we had to adjust manually. This was set by measuring the voltage across the vref pin and ground, and adjusting the potentiometer until the voltage read 0.7 V
+<p align="center">
+  <img src="TMC2208.png" alt="drawing" align = "center" width="400"/> 
+  </p>
 
 
 ###### Code
