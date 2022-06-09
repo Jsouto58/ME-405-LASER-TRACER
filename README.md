@@ -15,7 +15,7 @@
     <img src="Topview.jpeg" alt="Snow" style="width:20%">
   </div>
   <div class="column">
-    <img src="Gearview.jpeg" alt="Forest" style="width:20%">
+    <img src="GearView.jpeg" alt="Forest" style="width:20%">
   </div>
 </div>
   
