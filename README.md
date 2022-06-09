@@ -45,6 +45,13 @@ x_{n+1} =  x_n -
   \end{bmatrix}
 \end{equation}$$
 
+$$\begin{equation}
+x_{n+1} = 
+ \begin{bmatrix}
+    rtan(θ1)\\
+    rtan(θ2)}
+  \end{bmatrix}
+\end{equation}$$
 
 
 
