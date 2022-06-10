@@ -1,10 +1,9 @@
 # ME-405-LASER-TRACER
 ## Created by Jake Souto and Harrison Power
-<video width="320" height="240" controls>
-  <source src="Video.mov" type="video/mp4">
-</video>
+
 ###### Project:
-  The objective for this project was to create a 2½ degree pen plotter with the challenge of making both dimensions non-linear. For our project we chose to control a laser pointer across two radial dimensions taking a long exposure photo of the laser path to “record the drawing”. In addition to this, we plot the curve that the machine is drawing on the computer in real time. Below is our final design as well as some of the drawing we made with it.
+  The objective for this project was to create a 2½ degree pen plotter with the challenge of making both dimensions non-linear. For our project we chose to control a laser pointer across two radial dimensions taking a long exposure photo of the laser path to “record the drawing”. In addition to this, we plot the curve that the machine is drawing on the computer in real time. Below is our final design as well as some of the drawings we made with it. A video of it functioning can be found [here](Video.mov).
+  
   <p align="center">
   <img src="Fullview.jpeg" alt="drawing" align = "center" width="500"/>
   </p>
